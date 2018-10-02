@@ -1,0 +1,25 @@
+bod{
+  background: #ffc;
+}
+.simple {
+  border: 2px solid red;
+  padding: 10px 40px;
+  background: grey;
+  width: 500px;
+  border-radius: 1px;
+  box-shadow: 10px 10px 2px black;
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+}
+.BMI {
+  border: 2px solid red;
+  padding: 10px 40px;
+  background: pink;
+  width: 500px;
+  border-radius: 1px;
+  box-shadow: 10px 10px 2px black;
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+}
